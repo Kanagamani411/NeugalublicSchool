@@ -12,7 +12,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 > - Mention the project at local meetups and tell your friends/colleagues
 
 <!-- omit in toc -->
-## Table of Contents
+## Table of Content
 
 - [Code of Conduct](#code-of-conduct)
 - [I Have a Question](#i-have-a-question)
